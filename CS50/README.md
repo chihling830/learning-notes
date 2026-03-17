@@ -3,7 +3,7 @@
 這是我學習哈佛大學計算機科學入門課程 **CS50 (Introduction to Computer Science)** 的筆記與實作紀錄。
 
 ## 課程簡介
-CS50 是哈佛大學最受歡迎的課程之一，由 David J. Malan 教授授課。課程內容涵蓋：
+CS50 是哈佛大學提供可供線上學習的課程之一，由 David J. Malan 教授授課。課程內容涵蓋：
 * 計算機思維與演算法基礎
 * C 語言、Python、SQL
 * 前端網頁技術 (HTML, CSS, JavaScript)
